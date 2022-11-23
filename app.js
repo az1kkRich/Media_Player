@@ -1,13 +1,13 @@
 let list = [
-    "file:///D:/JavaScript-darsi/Media-Plaer/mp3/Marmalade.mp3",
-    "D:/JavaScript-darsi/Media-Plaer/mp3/Milliy-bola.mp3",
-    "file:///D:/JavaScript-darsi/MediA-PLaeR/mp3/Doim-8K.mp3",
-    "D:/JavaScript-darsi/Media-Plaer/mp3/Shape-off-you.mp3",
-    "D:/JavaScript-darsi/Media-Plaer/mp3/Tun.mp3",
-    "D:/JavaScript-darsi/Media-Plaer/mp3/Lolipop.mp3",
-    "D:/JavaScript-darsi/Media-Plaer/mp3/Gio-Peka.mp3",
-    "D:/JavaScript-darsi/Media-Plaer/mp3/Only-you.mp3",
+    "file:///D:/Install-apps/Mening_jildlarim/JavaScript-darsi/MediA-PLaeR/Media_Player/mp3/Only-you.mp3",
+    "file:///D:/Install-apps/Mening_jildlarim/JavaScript-darsi/MediA-PLaeR/Media_Player/mp3/Marmalade.mp3",
+    "file:///D:/Install-apps/Mening_jildlarim/JavaScript-darsi/MediA-PLaeR/Media_Player/mp3/Milliy-bola.mp3",
+    "file:///D:/Install-apps/Mening_jildlarim/JavaScript-darsi/MediA-PLaeR/Media_Player/mp3/Shape-off-you.mp3",
+    "file:///D:/Install-apps/Mening_jildlarim/JavaScript-darsi/MediA-PLaeR/Media_Player/mp3/TUN.mp3",
+    "file:///D:/Install-apps/Mening_jildlarim/JavaScript-darsi/MediA-PLaeR/Media_Player/mp3/Lolipop.mp3",
+    "file:///D:/Install-apps/Mening_jildlarim/JavaScript-darsi/MediA-PLaeR/Media_Player/mp3/Gio-Peka.mp3",
     "file:///D:/JavaScript-darsi/MediA-PLaeR/mp3/Rock%60n-rolls.mp3",
+    "file:///D:/Install-apps/Mening_jildlarim/JavaScript-darsi/MediA-PLaeR/Media_Player/mp3/Massa-Doim.mp3",
 ];
 
 let currentAudioIndex = 0;
